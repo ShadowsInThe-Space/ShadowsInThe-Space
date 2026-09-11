@@ -29,3 +29,4 @@ Ich baue KI-Produkte und die Infrastruktur dahinter — vom Voice-first-Invoicin
 ---
 
 *Alle Projekte sind MIT-lizenziert und laufen mit Anleitung aus dem jeweiligen README.*
+
